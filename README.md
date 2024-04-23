@@ -11,7 +11,7 @@ git clone https://github.com/wotiwan/passwordgenerator
 
 3. Перейдите в директорию проекта:
 ```
-cd passwordgenerator/main
+cd passwordgenerator
 ```
 
 4. Установите пакет:
