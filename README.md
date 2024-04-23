@@ -5,10 +5,10 @@
 ## Использование
 
 1. Cлонируйте репозиторий:
-git clone https://github.com/wotiwan/password-generator
+git clone https://github.com/wotiwan/passwordgenerator
 
 2. Перейдите в директорию проекта:
-cd password-generator/main
+cd passwordgenerator/main
 
 3. Установите пакет:
 ```
