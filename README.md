@@ -5,12 +5,16 @@
 ## Использование
 
 1. Cлонируйте репозиторий:
+```
 git clone https://github.com/wotiwan/passwordgenerator
+```
 
-2. Перейдите в директорию проекта:
+3. Перейдите в директорию проекта:
+```
 cd passwordgenerator/main
+```
 
-3. Установите пакет:
+4. Установите пакет:
 ```
 python3 setup.py install
 ```
